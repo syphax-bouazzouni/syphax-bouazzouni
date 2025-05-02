@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OntoPortal](github.com/ontoportal) and  [TS4NFDI](https://github.com/ts4nfdi/)
 
-- 📄 Know about my experiences [CV](blob:https://github.com/99e85500-2218-41a4-870c-2b9816c405b0)
+- 📄 Know about my experiences [CV](https://github.com/99e85500-2218-41a4-870c-2b9816c405b0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
