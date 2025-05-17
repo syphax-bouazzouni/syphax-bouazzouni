@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OntoPortal](github.com/ontoportal) and  [TS4NFDI](https://github.com/ts4nfdi/)
 
-- 📄 Know about my experiences [CV](https://github.com/syphax-bouazzouni/syphax-bouazzouni/blob/3d494e2b0a55c866cf433b66058cafa2baffa0d7/Software%20Engineer-%20Ruby%20on%20Rails%20-%20CV%20-%2004%3A25.pdf) and [Story](https://stageportal.notion.site/Syphax-Bouazzouni-1e7e345b802780b1bf40d9af432a9b2b)
+- 📄 Know about my experiences and story at https://syphax-bouazzouni.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
