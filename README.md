@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syphax-bouazzouni" alt="syphax-bouazzouni" /></a> </p>
 
-- 🔭 I’m currently working on [OntoPortal](github.com/ontoportal) and  [TS4NFDI](https://github.com/ts4nfdi/)
 
 - 📄 Know about my experiences and story at https://syphax-bouazzouni.github.io
 
